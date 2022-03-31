@@ -1,0 +1,80 @@
+const menu = [
+    {
+      id: "el1",
+      name: "Palov",
+      img: "https://i.ibb.co/5j8yQ3L/pilaf-sm.jpg",
+      price: 21000,
+    },
+    {
+      id: "el2",
+      name: "Beshbarmok",
+      img: "https://i.ibb.co/K0Q78Dy/beshbarmak-sm.jpg",
+      price: 23900,
+    },
+    {
+      id: "el3",
+      name: "Dolma",
+      img: "https://i.ibb.co/XjKw7vQ/dolma-sm.jpg",
+      price: 17000,
+    },
+    {
+      id: "el4",
+      name: "Qazon kabob",
+      img: "https://i.ibb.co/9pVmMxr/kazan-kabob.jpg",
+      price: 23000,
+    },
+    {
+      id: "el5",
+      name: "Qo`za sho`rva",
+      img: "https://i.ibb.co/7Q8K8T1/kuza-shurpa-sm.jpg",
+      price: 14500,
+    },
+    {
+      id: "el6",
+      name: "Lag`mon",
+      img: "https://i.ibb.co/wrvQ7gf/lagman-sm.jpg",
+      price: 14600,
+    },
+    {
+      id: "el7",
+      name: "Mantu",
+      img: "https://i.ibb.co/FsD3Lgc/manti.jpg",
+      price: 13600,
+    },
+    {
+      id: "el8",
+      name: "Moshkho`rda",
+      img: "https://i.ibb.co/RNnFWvZ/moshkhurda-sm.jpg",
+      price: 28700,
+    },
+    {
+      id: "el9",
+      name: "No`hat Shorak",
+      img: "https://i.ibb.co/8B2wzQz/nohat-shorak.jpg",
+      price: 18100,
+    },
+    {
+      id: "el10",
+      name: "Norin",
+      img: "https://i.ibb.co/z719sZr/norin.jpg",
+      price: 15000,
+    },
+    {
+      id: "el11",
+      name: "Shashlik",
+      img: "https://i.ibb.co/fSvtzFg/shashlik-sm.jpg",
+      price: 18000,
+    },
+    {
+      id: "el12",
+      name: "Tukhum Barak",
+      img: "https://i.ibb.co/qjVrmMQ/tukhum-barak-sm.jpg",
+      price: 15000,
+    },
+    {
+      id: "el3",
+      name: "Samosa",
+      img: "https://i.ibb.co/rQCBMcS/samosa-sm.jpg",
+      price: 5000,
+    },
+  ];
